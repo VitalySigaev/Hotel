@@ -8,7 +8,7 @@
 ![BEM](https://img.shields.io/badge/-BEM-yellowgreen)
 ![SCSS](https://img.shields.io/badge/SCSS-bf4080)
 
-1. При разработке проекта применена технология БЭМ и SCSS.
+1. При разработке проекта применена технологии БЭМ и SCSS.
 
 2. В проекте используется Slider - Slick.
 
