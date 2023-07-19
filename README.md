@@ -14,6 +14,7 @@
 
 3. Без адаптива.
 
+4. [Макет проекта в Figma.](https://www.figma.com/file/6EzYufI6wBCbEJaag84PiK/landing?type=design&node-id=0-1&mode=design)
 
 ## Ссылки проекта
 Ссылка на проект для просмотра - https://vitalysigaev.github.io/Hotel/
